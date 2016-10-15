@@ -1,0 +1,19 @@
+{
+  "name": "js-tdd-course",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nandomoreirame/js-tdd-course.git"
+  },
+  "author": "Fernando Moreira <nandomoreira.me@gmail.com> (https://nandomoreira.me/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nandomoreirame/js-tdd-course/issues"
+  },
+  "homepage": "https://github.com/nandomoreirame/js-tdd-course#readme"
+}
